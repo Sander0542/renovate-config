@@ -3,7 +3,8 @@
   "extends": [
     "config:recommended",
     ":dependencyDashboard",
-    ":automergePatch"
+    ":automergePatch",
+    ":semanticCommits"
   ],
   "prHourlyLimit": 0
 }
