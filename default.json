@@ -6,5 +6,6 @@
     ":automergePatch",
     ":semanticCommits"
   ],
+  "autodiscover": true,
   "prHourlyLimit": 0
 }
