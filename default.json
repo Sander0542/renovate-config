@@ -6,6 +6,14 @@
     ":automergePatch",
     ":semanticCommits"
   ],
+  "ignorePresets": [
+    ":semanticPrefixFixDepsChoreOthers"
+  ],
+  "labels": [
+    "dependencies",
+    "{{manager}}",
+    "{{updateType}}"
+  ],
   "autodiscover": true,
   "prHourlyLimit": 0
 }
